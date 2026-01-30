@@ -7,7 +7,7 @@ Computer vision software for identifying and tracking object position using a to
 </div>
 
 <div align="center">
-    <img src="test.png" width="100%"> 
+    <img src="relative_position.png" width="100%"> 
 </div>
 
 
